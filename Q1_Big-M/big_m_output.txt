@@ -1,0 +1,4 @@
+Animal Feed Optimization
+Corn = 4.0 kg
+Soybean = 0.0 kg
+Minimum Cost = ₹ 12.0
