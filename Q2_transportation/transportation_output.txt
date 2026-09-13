@@ -1,0 +1,15 @@
+Initial solution using VAM:
+[[20.  0.  0. 10.]
+ [ 0. 30.  5.  5.]
+ [ 0.  0. 20.  0.]]
+
+Initial transportation cost:
+385.0
+
+Optimal allocation using MODI:
+[[20.  0.  0. 10.]
+ [ 0. 30.  5.  5.]
+ [ 0.  0. 20.  0.]]
+
+Minimum transportation cost:
+385.0
